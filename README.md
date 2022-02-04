@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kapil0045
 - 👀 I’m interested in objective C and Swift 
-- 🌱 I’m currently learning Swift, IOS app development
-- 💞️ I’m looking to collaborate on IOS app development projects
+- 🌱 I’m currently learning Swift, iOS app development
 - 📫 Reach me on kapildongre12@gmail.com
 
 <!---
